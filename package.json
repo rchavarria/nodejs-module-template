@@ -16,6 +16,10 @@
     "url": "https://github.com/rchavarria/nodejs-module-template/issues"
   },
   "devDependencies": {
-    "gulp": "~3.8.8"
+    "gulp": "~3.8.8",
+    "sinon-chai": "~2.5.0",
+    "chai": "~1.9.1",
+    "sinon": "~1.10.3",
+    "mocha": "~1.21.4"
   }
 }
