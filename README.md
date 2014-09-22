@@ -84,7 +84,7 @@ It is so easy to install those libraries that we will do it in a single command:
 
     npm install --save-dev mocha chai sinon sinon-chai
 
-Test mocha installation with `node_modules/mocha/bin/mocha --version`.
+Test mocha installation with `node node_modules/mocha/bin/mocha --version`.
 
 # Before writting your first test
 
